@@ -62,7 +62,6 @@ class PessoaFisica extends Contribuinte {
 
 export { PessoaFisica }
 
-// let PF1 = new PessoaFisica('Gustavo', '46645452829', 5000, 'Masculino');
 =======
 import { Contribuinte } from './ScriptC.js'
 
@@ -127,6 +126,5 @@ class PessoaFisica extends Contribuinte {
 
 export { PessoaFisica }
 
-// let PF1 = new PessoaFisica('Gustavo', '46645452829', 5000, 'Masculino');
+
 >>>>>>> a03a7566517b57429ad7775252284353b2719d36
-// PF1.calcImposto();
