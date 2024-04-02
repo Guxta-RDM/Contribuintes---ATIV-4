@@ -38,7 +38,7 @@ class PessoaJuridica extends Contribuinte {
 
 export { PessoaJuridica }
 
-// let PJ1 = new PessoaJuridica('Azelam', '46645452829123', 50000, 1950);
+
 =======
 import { Contribuinte } from './ScriptC.js'
 
@@ -78,6 +78,5 @@ class PessoaJuridica extends Contribuinte {
 
 export { PessoaJuridica }
 
-// let PJ1 = new PessoaJuridica('Azelam', '46645452829123', 50000, 1950);
+
 >>>>>>> a03a7566517b57429ad7775252284353b2719d36
-// PJ1.calcImposto(PJ1.getDocumento());
