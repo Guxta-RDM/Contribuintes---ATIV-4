@@ -53,19 +53,6 @@ class GrupoDeContribuintes {
 
 }
 
-let GDC = new GrupoDeContribuintes();
-let PF1 = new PessoaFisica('Gustavo', '46645452829', 5000, 'M');
-let PF2 = new PessoaFisica('Ana', '46643452522', 5000, 'F');
-let PF3 = new PessoaFisica('Ana Maria', '48849246239', 5000, 'F');
-let PJ1 = new PessoaJuridica('Zatatech', '87212448000157', 80000, 2007);
-let PJ2 = new PessoaJuridica('Acre', '87212448040157', 80000, 2007);
-GDC.addContribuinte(PF1);
-GDC.addContribuinte(PF2);
-GDC.addContribuinte(PF3);
-GDC.addContribuinte(PJ1);
-GDC.addContribuinte(PJ2);
-GDC.getTotalImposto();
-GDC.getPorcentagemContribuintesFeminino();
 =======
 import { Contribuinte } from "./ScriptC.js";
 import { PessoaFisica } from "./scriptPF.js";
