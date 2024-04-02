@@ -95,10 +95,4 @@ class GrupoDeContribuintes{
 
 }
 
-// let GDC = new GrupoDeContribuintes();
-// let PF = new PessoaFisica('Gustavo', '46645452829', 2000, 'Masculino');
-// let PJ = new PessoaJuridica('Tech Animus', '48800847000187', 5000, 2005);
-// GDC.addContribuinte(PF);
-// GDC.addContribuinte(PJ);
-// GDC.listContribuintes();
 >>>>>>> a03a7566517b57429ad7775252284353b2719d36
